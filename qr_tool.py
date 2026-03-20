@@ -7,7 +7,8 @@
  ╚══▀▀═╝ ╚═╝  ╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
 
 QR Code Generator & Reader  v1.0.0
-Author  : github.com/your-username
+Author  : https://github.com/n-o-name-1
+Telegram : https://t.me/n_o_name_1
 License : MIT
 """
 
@@ -509,7 +510,8 @@ def screen_about() -> None:
 
   Output folder        : ./{OUTPUT_DIR}/
 
-  GitHub  : https://github.com/your-username/qr-tool
+  GitHub  : https://t.me/n_o_name_1/qr-tool
+  Telegram : https://t.me/n_o_name_1
   License : MIT
 """)
     input("  Press Enter to go back...")
