@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 # ─────────────────────────────────────────────────────────
 #  Constants
 # ─────────────────────────────────────────────────────────
-VERSION    = "1.0.0"
+VERSION    = "1.1.0"
 OUTPUT_DIR = Path("qr_output")
 DIVIDER    = "─" * 52
 HEAVY      = "═" * 52
@@ -598,7 +598,7 @@ def main() -> None:
 ╚██████╔╝██║  ██║        ██║   ╚██████╔╝╚██████╔╝███████╗
  ╚══▀▀═╝ ╚═╝  ╚═╝        ╚═╝    ╚═════╝  ╚═════╝ ╚══════╝
 
-QR Code Generator & Reader  v1.0.0
+QR Code Generator & Reader  v1.1.0
 Author  : https://github.com/n-o-name-1
 Telegram : https://t.me/n_o_name_1
 License : MIT
